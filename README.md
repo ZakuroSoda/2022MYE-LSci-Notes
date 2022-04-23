@@ -59,21 +59,21 @@ Non-Compeitive Inhibitors:
 
 ## 2. Cellular Transport
 
-Quick Note: Net means overall movement.
+Quick Note: Net means overall movement. This means that particles still move between the two areas, but there is overall no change in concentration of that particle in the two areas.
 
-Example - Plant in the day:
+Diffusion Example 1 - Plant in the day:
 
 CO<sub>2</sub> - Atmosphere => Intra-Cellular Airspaces within the leaf
 
 O<sub>2</sub> - Intra-Cellular Airspaces => Atmosphere
 
-Example: Plant in the night:
+Diffusion Example 2: Plant in the night:
 
 CO<sub>2</sub> - Intra-Cellular Airspaces => Atmosphere within the leaf
 
 O<sub>2</sub> - Atmosphere => Intra-Cellular Airspaces
 
-Example - Human Lungs:
+Diffusion Example 3 - Human Lungs:
 
 CO<sub>2</sub> - Bloodstream => Air (Airsac)
 
@@ -84,4 +84,20 @@ Written out:
 Faster rate of photosynthesis than respiration on bright afternoon so higher concentration of oxygen and lower concentration of carbon dioxide occurs in the leaf intracellular air-space compared to the exterior atmosphere. [1]
 Thus, there is diffusion of carbon dioxide into the air-space through the stomata down the concentration gradient. [1]
 
+Facilitated Diffusion Example 1:
 
+When Glucose and Amino Acids digested from food are higher in concentration in the small intestine than the bloodstream, they travel through the walls into the bloodstream through facilitated diffusion because they are still quite big.
+
+Active Transport Example 1:
+
+When Glucose and Amino Acids digested from food are lower in concentration in the small intestine than the bloodstream, they travel through the walls into the bloodstream through active transport.
+
+Active Transport Example 2:
+
+Nutrients travel from the soil into the root (hair cells) through active transport.
+
+---
+
+Diffusion is usually the most "diverse" and can occur in liquids, gas, semi-solids (agar), with or without a partially-permeable membrane, since it is not a live process (like F.D. and A.C. which inherently require live stuff). 
+
+Active transport functions like a pump. It uses *transport carrier proteins*
