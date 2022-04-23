@@ -122,18 +122,22 @@ As the concentration gradient increases,the rate of the process increases. More 
 As the surface area to volume ratio increases,the rate of the process increases. More surface area and shorter distance for particle to move from inside of cell to outside of cell and vice versa, hence leading to a faster rate of diffusion/osmosis.
 
 - Distance
+
+The distance that the particles have to travel affect the rate of process, for example if the room is bigger, it will take longer for a smell to diffuse throughout the room.
+
 - Characteristics of Solvent
 
-Molecular Weight or Viscosity
+Eg. Molecular Weight or Viscosity
 
 - Characteristics of Substance
 
-Molecular Weight
+Eg. Molecular Weight
 
 - Characteristics of Barrier
 
-Polar or Non-Polar, Thickness
+Eg. Polar or Non-Polar, Thickness
 
 ---
 
-OSMOSIS IN PROGRESS I WANT TO SLEEEP
+OSMOSIS IN PROGRESS I WANT TO 
+SLEEEP
