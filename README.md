@@ -103,17 +103,37 @@ Diffusion is usually the most "diverse" and can occur in liquids, gas, semi-soli
 Facilitated Diffusion is also suited for bringing *large and charged particles like ions* across the cell membrane, using *protein channels*.
 
 Active transport functions like a pump. It uses *transport carrier proteins* to bring *large and charged* particles across the membrane. These could be *ions in the nerves* to send signals. They could also be *ionic sodium and potassium*, pumping Na+ out of the cell and K+ into the cell, against the concentration gradient. 
-A.T. ensures electrostatic equilibrium.
+A.T. ensures *electrostatic equilibrium*.
 
 ---
 
 Factors affecting the rate of diffusion/osmosis *(Passive Processes)*
 
 - Temperature
-  As the temperature increases,the rate of the process increases. 
-- Concentration Gradient Different
+
+As the temperature increases,the rate of the process increases. Molecules move faster when temperature increases hence leading to a faster rate of diffusion/osmosis.
+
+- Concentration Gradient Difference
+
+As the concentration gradient increases,the rate of the process increases. More molecules will be crossing over the regions hence leading to a faster rate of diffusion/osmosis.
+
 - Surface Area to Volume Ratio
+
+As the surface area to volume ratio increases,the rate of the process increases. More surface area and shorter distance for particle to move from inside of cell to outside of cell and vice versa, hence leading to a faster rate of diffusion/osmosis.
+
 - Distance
 - Characteristics of Solvent
+
+Molecular Weight or Viscosity
+
 - Characteristics of Substance
+
+Molecular Weight
+
 - Characteristics of Barrier
+
+Polar or Non-Polar, Thickness
+
+---
+
+OSMOSIS IN PROGRESS I WANT TO FCKING SLEEEP
