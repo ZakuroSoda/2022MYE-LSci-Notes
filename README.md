@@ -2,15 +2,15 @@
 
 Note: This is meant to be complementary to the Notes, Theory, Practical books, and E-Resources like Answers, Slides, etc.
 
-<img src="https://img.shields.io/badge/Date-23%20Apr%202022-green"><img src="https://img.shields.io/badge/Current%20Issues-0-yellowgreen">
+<img src="https://img.shields.io/badge/Date-23%20Apr%202022-green"> <img src="https://img.shields.io/badge/Current%20Issues-0-yellowgreen">
 
 Please open a pull request if you spot a error in content or a typo. 
 
 <img src="https://img.shields.io/badge/Thank-You-orange">
 
 ### Contents:
-
-1. [Enzymes](#1-enzymes)
+  1. [Enzymes](#1-enzymes)
+  2. [Cellular Transport](#2-cellular-transport)
 
 ## 1. Enzymes
 
@@ -56,4 +56,32 @@ Non-Compeitive Inhibitors:
 - Arsenic
 - Heavy Metals
 - Salt (On Bromelain)
-  
+
+## 2. Cellular Transport
+
+Quick Note: Net means overall movement.
+
+Example - Plant in the day:
+
+CO<sub>2</sub> - Atmosphere => Intra-Cellular Airspaces within the leaf
+
+O<sub>2</sub> - Intra-Cellular Airspaces => Atmosphere
+
+Example: Plant in the night:
+
+CO<sub>2</sub> - Intra-Cellular Airspaces => Atmosphere within the leaf
+
+O<sub>2</sub> - Atmosphere => Intra-Cellular Airspaces
+
+Example - Human Lungs:
+
+CO<sub>2</sub> - Bloodstream => Air (Airsac)
+
+O<sub>2</sub> - Air (Airsac) => Bloodstream
+
+Written out:
+
+Faster rate of photosynthesis than respiration on bright afternoon so higher concentration of oxygen and lower concentration of carbon dioxide occurs in the leaf intracellular air-space compared to the exterior atmosphere. [1]
+Thus, there is diffusion of carbon dioxide into the air-space through the stomata down the concentration gradient. [1]
+
+
