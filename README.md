@@ -100,4 +100,20 @@ Nutrients travel from the soil into the root (hair cells) through active transpo
 
 Diffusion is usually the most "diverse" and can occur in liquids, gas, semi-solids (agar), with or without a partially-permeable membrane, since it is not a live process (like F.D. and A.C. which inherently require live stuff). 
 
-Active transport functions like a pump. It uses *transport carrier proteins*
+Facilitated Diffusion is also suited for bringing *large and charged particles like ions* across the cell membrane, using *protein channels*.
+
+Active transport functions like a pump. It uses *transport carrier proteins* to bring *large and charged* particles across the membrane. These could be *ions in the nerves* to send signals. They could also be *ionic sodium and potassium*, pumping Na+ out of the cell and K+ into the cell, against the concentration gradient. 
+A.T. ensures electrostatic equilibrium.
+
+---
+
+Factors affecting the rate of diffusion/osmosis *(Passive Processes)*
+
+- Temperature
+  As the temperature increases,the rate of the process increases. 
+- Concentration Gradient Different
+- Surface Area to Volume Ratio
+- Distance
+- Characteristics of Solvent
+- Characteristics of Substance
+- Characteristics of Barrier
