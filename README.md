@@ -2,8 +2,7 @@
 
 Note: This is meant to be complementary to the Notes, Theory, Practical books, and E-Resources like Answers, Slides, etc.
 
-<img src="https://img.shields.io/badge/Date-23%20Apr%202022-green">
-<img src="https://img.shields.io/badge/Current%20Issues-0-yellowgreen">
+<img src="https://img.shields.io/badge/Date-23%20Apr%202022-green"><img src="https://img.shields.io/badge/Current%20Issues-0-yellowgreen">
 
 Please open a pull request if you spot a error in content or a typo. 
 
