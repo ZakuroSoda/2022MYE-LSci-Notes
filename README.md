@@ -139,4 +139,14 @@ Eg. Polar or Non-Polar, Thickness
 
 ---
 
-OSMOSIS IN PROGRESS I WANT TO SLEEEP
+The definition of osmosis is already in the book together with the table so...
+
+The presence of a partially permeable membrane restricts diffusion of solute particles (sodium ions). Osmosis will occur instead, where water molecules move from a less concentrated solution (pure water) to a more concentrated solution (sodium solution) to "balance" out the water to solute ratio. 
+
+This means that if there was no *partially-permeable membrane*, the sodium ions would simply diffuse throughout the solution, which is why we say that *osmosis requires a partially-permeable membrane*.
+ 
+<img src="assets/Water_osmosis.png">
+
+In the sodium solution, water molecules are held around the sodium ions, giving it "less potential" to move around the solution. In pure water however, water molecules move around more freely and therefore has "more potential". Hence, water molecules move from an area of higher water potential to an area of lower water potential. 
+ 
+The more concentrated a solution is, the lower its water potential. 
