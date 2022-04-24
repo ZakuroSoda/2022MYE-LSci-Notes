@@ -367,3 +367,16 @@ The cambium is a tissue layer that provides partially undifferentiated cells for
 
 <img src="assets/vascularbundle2.jpg">
 <img src="assets/vascularbundle3.jpg">
+
+---
+
+Additional Notes on Xylem:
+
+- In a dicot stem, it is pointing to the centre
+- It is more symmetrical
+- It has lignin (complex organic polymer) to make it tough
+- It is impermeable to H<sub>2</sub>O
+- One-Way Flow (Unidirectional)
+- Close to the edge in a stem to keep it tough and straight
+- Centred in root to keep it rooted
+- Consists of a variety of specialized, water-conducting cells known as tracheary elements - tracheids and vessels
