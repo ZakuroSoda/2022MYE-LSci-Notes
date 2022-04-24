@@ -13,6 +13,7 @@ Please open a pull request if you spot a error in content or a typo.
   2. [Cellular Transport](#2-cellular-transport)
   3. [Nutrition in Plants](#3-nutrition-in-plants)
   4. [Seed Structure and Germination](#4-seed-structure-and-germination)
+  5. [Hydroponics](#5-hydroponics)
 
 ## 1. Enzymes
 
@@ -280,3 +281,11 @@ The cotyledons in a dicotyledonous plant are connected along an embryonic axis, 
 2. Micropyle (Pore, usually below the hilum)
 3. Hilum (Attachment to the original plant's ovary wall)
 
+## 5. Hydroponics
+
+<img src="assets/Hydroponics-pH.png">
+Why the optimum pH is 5.8-6.5.
+
+
+<img src="assets/Hydroponics-HexGrow.jpg">
+Example Nutrient Solution You Can Buy
