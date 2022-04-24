@@ -14,6 +14,7 @@ Please open a pull request if you spot a error in content or a typo.
   3. [Nutrition in Plants](#3-nutrition-in-plants)
   4. [Seed Structure and Germination](#4-seed-structure-and-germination)
   5. [Hydroponics](#5-hydroponics)
+  6. [Plant Transport](#6-plant-transport)
 
 ## 1. Enzymes
 
