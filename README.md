@@ -59,7 +59,7 @@ Non-Compeitive Inhibitors:
 
 ## 2. Cellular Transport
 
-Quick Note: Net means overall movement. This means that particles still move between the two areas, but there is overall no change in concentration of that particle in the two areas.
+Quick Note: Net means overall movement. This means that particles still move between the two areas, but there is overall no change in concentration of that particle in the two areas. This applies for both diffusion and osmosis.
 
 Diffusion Example 1 - Plant in the day:
 
@@ -149,4 +149,20 @@ This means that if there was no *partially-permeable membrane*, the sodium ions 
 
 In the sodium solution, water molecules are held around the sodium ions, giving it "less potential" to move around the solution. In pure water however, water molecules move around more freely and therefore has "more potential". Hence, water molecules move from an area of higher water potential to an area of lower water potential. 
  
-The more concentrated a solution is, the lower its water potential. 
+The more concentrated a solution is, the lower its water potential. So:
+
+Low Solute Concentration => High Water "Concentration" => High Water Potential
+
+High Solute Concentration => Low Water "Concentration" => Low Water Potential
+
+Quick Note: We must always say that something is hypertonic **to** or hypotonic **to** something else.
+
+Animal Cells Terms:
+1. Shrunken/Crenated
+2. Normal (Best)
+3. Swell and Burst/Lyse
+
+Plant Cells Terms:
+1. Plasmolysis (Occurs when  cell *membrane* pulls away from the cell wall)
+2. Flaccid (Occus when cell *contents* pull away from cell wall)
+3. Turgid (Best)
