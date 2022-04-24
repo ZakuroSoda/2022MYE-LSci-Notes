@@ -11,6 +11,7 @@ Please open a pull request if you spot a error in content or a typo.
 ### Contents:
   1. [Enzymes](#1-enzymes)
   2. [Cellular Transport](#2-cellular-transport)
+  3. [Nutrition in Plants](#3-nutrition-in-plants)
 
 ## 1. Enzymes
 
@@ -145,7 +146,7 @@ The presence of a partially permeable membrane restricts diffusion of solute par
 
 This means that if there was no *partially-permeable membrane*, the sodium ions would simply diffuse throughout the solution, which is why we say that *osmosis requires a partially-permeable membrane*.
  
-<img src="assets/Water_osmosis.png">
+<img src="assets/Water_osmosis.png" width=400px>
 
 In the sodium solution, water molecules are held around the sodium ions, giving it "less potential" to move around the solution. In pure water however, water molecules move around more freely and therefore has "more potential". Hence, water molecules move from an area of higher water potential to an area of lower water potential. 
  
@@ -166,3 +167,16 @@ Plant Cells Terms:
 1. Plasmolysis (Occurs when  cell *membrane* pulls away from the cell wall)
 2. Flaccid (Occus when cell *contents* pull away from cell wall)
 3. Turgid (Best)
+
+## 3. Nutrition in Plants
+
+Quick Note: The *duration* of light mainly affects the initation of flowering. Long-Day Plants such as wheats and oats only bloom when the duration of light they receive is more than 12 hours or the critical period. Short-Day Plants such as tobacco, soybeans and chrysanthemum only bloom when the duration of light they receive is less than 12 hours or the critical period. There are also day-neutral plants like tomatoes, maize (corn), cucumbers, sunflowers and some strawberries which form flowers regardless of day length
+
+| Germination [Seed]                                      | Condition   | Growth [Plant]                                          |
+|---------------------------------------------------------|-------------|---------------------------------------------------------|
+| ~ (Some are affected, some aren't)                      | Light       | ✔️ (Photosynthesis)                                      |
+| ✔️ (Make Enzymes Work)                                   | Water       | ✔️ (Photosynthesis)                                      |
+| ❌ (Cotyledon is Present)                                | Nutrients   | ✔️ (Active Transport)                                    |
+| ✔️ (Cellular Respiration)                                | Oxygen      | ✔️ (Cellular Respiration)                                |
+| ✔️ (Enzymes for Cellular Respiration and Photosynthesis) | Temperature | ✔️ (Enzymes for Cellular Respiration and Photosynthesis) |
+
