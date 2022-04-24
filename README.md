@@ -326,3 +326,39 @@ Extra: Why soil was originally always used:
 - Nutrients inherently present in the soil
 - Water inherently present as rainwater and groundwater
 - Aeration of roots inherently present due to space between soil particles
+
+## 6. Plant Transport
+
+The "*atas*" version of this is also called the *vascular system*.
+
+<!--yeah im singaporean what you gonna do about it huh-->
+
+As we learnt in the "organisation of life":
+
+1. Atoms
+2. Molecules
+3. Macromolecules
+4. Organelles
+5. Cells
+6. Tissues
+7. Organs
+8. Organ System
+9. Organism
+10. Population
+11. Community
+12. Ecosystem
+13. Biome
+14. Biosphere
+
+In plants, there are 3 main organs:
+1. Leaves
+2. Stem
+3. Roots
+
+In these three organs, there are two tissues:
+1. Xylem Vessels - Water, (Dissolved) Mineral Salts
+2. Phloem Tubes - Sucrose (sometimes Glucose) [Carbohydrate], Amino Acids (Made from Nitrates)
+
+Additional Notes on Phloem:
+
+<img src="assets/VascularBundle.svg">
