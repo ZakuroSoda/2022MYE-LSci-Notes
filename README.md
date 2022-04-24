@@ -187,6 +187,13 @@ Quick Note: In the lab, the reason why magenta lights are usually used is becaus
 
 <!--https://www.tablesgenerator.com/markdown_tables-->
 
+| Nutrient Type            | Examples                                                           | Elemental Symbol                              | Purpose                                                               |
+|--------------------------|--------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------|
+| Primary Macronutrients   | **Nitrogen**, Phosphorus, Potassium                                | N, P, K                                       | Proteins, Nucleic Acids, Etc.                                         |
+| Secondary Macronutrients | Calcium, Magnesium, Sulfur                                         | Ca, Mg, S                                     | Cellular Development                                                  |
+| Micronutrients           | Boron, Iron, Chlorine, Zinc, Manganese, Copper, Molybdenum, Nickel | B, Fe, Cl, Zn, Mn, Cu, Mo, Ni                 | [Link](https://en.wikipedia.org/wiki/Plant_nutrition#Micro-nutrients) |
+| Non-Mineral Nutrients    | **Carbon**, **Hydrogen**, **Oxygen**                               | C, H, O<br><br>H<sub>2</sub>O, CO<sub>2</sub> | Photosynthesis (Water, Carbon Dioxide)                                |
+
 ## 4. Seed Structure and Germination
 
 Flowering plants can be split into monocotyledonous plants and dicotyledonous plants. (Non-flowering plants obviously don't make seeds).
