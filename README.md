@@ -185,7 +185,7 @@ Quick Note: In the lab, the reason why magenta lights are usually used is becaus
 | ✔️ (Make Enzymes Work)                                   | Water       | ✔️ (Photosynthesis)                                      |
 | ❌ (Cotyledon is Present)                                | Nutrients   | ✔️ (Active Transport)                                    |
 | ✔️ (Cellular Respiration)                                | Oxygen      | ✔️ (Cellular Respiration)                                |
-| ✔️ (Enzymes for Cellular Respiration and Photosynthesis) | Temperature | ✔️ (Enzymes for Cellular Respiration and Photosynthesis, as well as Transpiration) |
+| ✔️ (*Enzymes* for Cellular Respiration and Photosynthesis) | Temperature | ✔️ (*Enzymes* for Cellular Respiration and Photosynthesis, as well as Transpiration) |
 
 <!--https://www.tablesgenerator.com/markdown_tables-->
 
