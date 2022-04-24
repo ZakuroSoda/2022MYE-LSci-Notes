@@ -365,8 +365,7 @@ Additional Notes on Phloem:
 
 The cambium is a tissue layer that provides partially undifferentiated cells for plant growth. It is found in the area between xylem and phloem. It is really thin so you can't really see it. Meanwhile, the phloem is actually not the fibre cap like it is confused to be.
 
-<img src="assets/vascularbundle2.jpg">
-<img src="assets/vascularbundle3.jpg">
+<img src="assets/vascularbundle2.jpg"><img src="assets/vascularbundle3.jpg">
 
 ---
 
