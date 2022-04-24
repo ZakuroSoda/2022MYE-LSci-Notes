@@ -287,3 +287,10 @@ The cotyledons in a dicotyledonous plant are connected along an embryonic axis, 
 Why the optimum pH is 5.8-6.5.
 <img src="assets/Hydroponics-HexGrow.jpg" width=500px>
 Example Nutrient Solution You Can Buy
+
+---
+
+Extra: Root Dripping System
+
+<img src="assets/Drip-System.webp" width=500px>
+The above is usually a closed system.
