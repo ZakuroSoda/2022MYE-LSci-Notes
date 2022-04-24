@@ -380,3 +380,6 @@ Additional Notes on Xylem:
 - Close to the edge in a stem to keep it tough and straight
 - Centred in root to keep it rooted
 - Consists of a variety of specialized, water-conducting cells known as tracheary elements - tracheids and vessels
+
+Quick Note: Xylem is usually on the top in a leaf
+
