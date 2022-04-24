@@ -194,6 +194,30 @@ Quick Note: In the lab, the reason why magenta lights are usually used is becaus
 | Micronutrients           | Boron, Iron, Chlorine, Zinc, Manganese, Copper, Molybdenum, Nickel | B, Fe, Cl, Zn, Mn, Cu, Mo, Ni                 | [Link](https://en.wikipedia.org/wiki/Plant_nutrition#Micro-nutrients) |
 | Non-Mineral Nutrients    | **Carbon**, **Hydrogen**, **Oxygen**                               | C, H, O<br><br>H<sub>2</sub>O, CO<sub>2</sub> | Photosynthesis (Water, Carbon Dioxide)                                |
 
+All these nutrients are necessary, just needed in different amounts.
+
+Mineral nutrients are taken in through the process of active transport by the root hair cells.
+
+What each primary macronutrient does and its characteristics (In addition to stuff in the notes booklet):
+
+Nitrogen:
+- Dark green, glossy look
+- Easily leaves the soil
+- Mobile in plants
+
+Phosphorus:
+- Root formation and growth
+- Quality of Seed, Fruits and Flowers
+- Disease Resistance
+
+Potassium:
+- Overcome drought stress
+- Winter Hardness
+- Disease Resistance
+- Strength of Stems
+
+
+
 ## 4. Seed Structure and Germination
 
 Flowering plants can be split into monocotyledonous plants and dicotyledonous plants. (Non-flowering plants obviously don't make seeds).
