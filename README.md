@@ -171,7 +171,11 @@ Plant Cells Terms:
 
 ## 3. Nutrition in Plants
 
-Quick Note: The *duration* of light mainly affects the initation of flowering. Long-Day Plants such as wheats and oats only bloom when the duration of light they receive is more than 12 hours or the critical period. Short-Day Plants such as tobacco, soybeans and chrysanthemum only bloom when the duration of light they receive is less than 12 hours or the critical period. There are also day-neutral plants like tomatoes, maize (corn), cucumbers, sunflowers and some strawberries which form flowers regardless of day length
+Quick Note: The *duration* of light mainly affects the initation of flowering. Long-Day Plants such as wheats and oats only bloom when the duration of light they receive is more than 12 hours or the critical period. Short-Day Plants such as tobacco, soybeans and chrysanthemum only bloom when the duration of light they receive is less than 12 hours or the critical period. There are also day-neutral plants like tomatoes, maize (corn), cucumbers, sunflowers and some strawberries which form flowers regardless of day length.
+
+Quick Note: Three aspects of light - Quality (Wavelength), Intensity (Brightness), Duration (Photoperiod).
+
+Quick Note: In the lab, the reason why magenta lights are usually used is because red and blue is best utilised by plants for photosynthesis. Green is least-utilised because most of it is reflected (That is why the leaves look green).
 
 | Germination [Seed]                                      | Condition   | Growth [Plant]                                          |
 |---------------------------------------------------------|-------------|---------------------------------------------------------|
@@ -179,7 +183,7 @@ Quick Note: The *duration* of light mainly affects the initation of flowering. L
 | ✔️ (Make Enzymes Work)                                   | Water       | ✔️ (Photosynthesis)                                      |
 | ❌ (Cotyledon is Present)                                | Nutrients   | ✔️ (Active Transport)                                    |
 | ✔️ (Cellular Respiration)                                | Oxygen      | ✔️ (Cellular Respiration)                                |
-| ✔️ (Enzymes for Cellular Respiration and Photosynthesis) | Temperature | ✔️ (Enzymes for Cellular Respiration and Photosynthesis) |
+| ✔️ (Enzymes for Cellular Respiration and Photosynthesis) | Temperature | ✔️ (Enzymes for Cellular Respiration and Photosynthesis, as well as Transpiration) |
 
 <!--https://www.tablesgenerator.com/markdown_tables-->
 
@@ -222,3 +226,26 @@ Dicotyledonous Plants:
 - hollyhock
 
 The cotyledons provide nourishment for the germinating plant.
+
+A seed can be broken down into three main parts, the embryo, the seed coat, and the cotyledon.
+
+The embryo is the living thing, that will grow into a plant.
+
+From the "top-down", a embryo consists of
+1. Plumule - The part that becomes the shoot
+2. Epicotyl (Above)
+3. Hypocotyl (Below)
+4. Radicle - Attracted by gravity, becomes the root.
+
+The seedcoat consists of
+1. Outer testa (Hard and Thick)
+2. Inner tegmen (Thin Whitish Membrane)
+which are fused.
+
+Usually we refer to the seedcoat as the testa. It protects the embryo.
+
+The cotyledons in a dicotyledonous plant are connected along an embryonic axis, which consists of the
+1. Raphe (The line or scar running across the seed)
+2. Micropyle (Pore, usually below the hilum)
+3. Hilum (Attachment to the original plant's ovary wall)
+
