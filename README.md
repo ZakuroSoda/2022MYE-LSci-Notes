@@ -294,3 +294,35 @@ Extra: Root Dripping System
 
 <img src="assets/Drip-System.webp" width=500px>
 The above is usually a closed system.
+
+--- 
+
+Quick Note: Regular replacement of nutrient solution in the open system refers to replacing the whole nutrient solution at every growth cycle, harvest, or every few weeks.
+
+Quick Note: The air stone's job is to **disperse** oxygen *from* the air pump.
+
+Quick Note: Aeroponics is classified as a closed system because the nutrient solution (mist) is collected and reused (sprayed).
+
+---
+
+Additional Disadvantages of a Closed System not Mentioned in the Book:
+
+(I know this is random and out of nowhere but whatever, good to know)
+
+- Failure of pump system leads to plant death very quickly
+- Introduction of pathogens leads to disease infecting all plants quickly
+
+---
+
+Additional Advantages to **Hydroponics as a Whole**:
+- Faster Growth and Greater Harvests
+- Nutrients used can be adjusted to the exact needs of the plant
+- Plants flourish as they absorb water and nutrients much more efficiently (It's even better in aeroponics)
+
+---
+
+Extra: Why soil was originally always used:
+- Anchors plant from above-ground hazards
+- Nutrients inherently present in the soil
+- Water inherently present as rainwater and groundwater
+- Aeration of roots inherently present due to space between soil particles
