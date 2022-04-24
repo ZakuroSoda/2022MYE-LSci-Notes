@@ -382,4 +382,3 @@ Additional Notes on Xylem:
 - Consists of a variety of specialized, water-conducting cells known as tracheary elements - tracheids and vessels
 
 Quick Note: Xylem is usually on the top in a leaf
-
