@@ -12,6 +12,7 @@ Please open a pull request if you spot a error in content or a typo.
   1. [Enzymes](#1-enzymes)
   2. [Cellular Transport](#2-cellular-transport)
   3. [Nutrition in Plants](#3-nutrition-in-plants)
+  4. [Seed Structure and Germination](#4-seed-structure-and-germination)
 
 ## 1. Enzymes
 
@@ -180,3 +181,44 @@ Quick Note: The *duration* of light mainly affects the initation of flowering. L
 | ✔️ (Cellular Respiration)                                | Oxygen      | ✔️ (Cellular Respiration)                                |
 | ✔️ (Enzymes for Cellular Respiration and Photosynthesis) | Temperature | ✔️ (Enzymes for Cellular Respiration and Photosynthesis) |
 
+<!--https://www.tablesgenerator.com/markdown_tables-->
+
+## 4. Seed Structure and Germination
+
+Flowering plants can be split into monocotyledonous plants and dicotyledonous plants. (Non-flowering plants obviously don't make seeds).
+
+Monocotyledonous Plants:
+- wheat
+- asparagus
+- corn (maize)
+- rice
+- millet
+- lilies
+- daffodils
+- sugarcane
+- banana
+- palm
+- ginger
+- onions
+- bamboo
+- sugarcane
+- cone
+- palm tree
+- banana tree
+- grass
+
+Dicotyledonous Plants:
+- soybean
+- broad bean
+- peas
+- almonds
+- cashews
+- grapes
+- apples
+- chestnut
+- oak
+- carrot
+- rose
+- hollyhock
+
+The cotyledons provide nourishment for the germinating plant.
