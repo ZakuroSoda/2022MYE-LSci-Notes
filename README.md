@@ -104,8 +104,10 @@ Diffusion is usually the most "diverse" and can occur in liquids, gas, semi-soli
 
 Facilitated Diffusion is also suited for bringing *large and charged particles like ions* across the cell membrane, using *protein channels*.
 
-Active transport functions like a pump. It uses *transport carrier proteins* to bring *large and charged* particles across the membrane. These could be *ions in the nerves* to send signals. They could also be *ionic sodium and potassium*, pumping Na+ out of the cell and K+ into the cell, against the concentration gradient. 
+Active transport functions like a pump, thus it needs ATP. It uses *transport carrier proteins* to bring *large and charged* particles across the membrane. These could be *ions in the nerves* to send signals. They could also be *ionic sodium and potassium*, pumping Na+ out of the cell and K+ into the cell, against the concentration gradient. 
 A.T. ensures *electrostatic equilibrium*.
+
+The carrier protein is a molecule which forms a *carrier-ion complex* with the ion. It binds with the specific solute to be transported and undergoes a series of conformational changes to transfer the bound solute across the membrane
 
 ---
 
@@ -215,8 +217,6 @@ Potassium:
 - Winter Hardness
 - Disease Resistance
 - Strength of Stems
-
-
 
 ## 4. Seed Structure and Germination
 
