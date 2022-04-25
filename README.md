@@ -398,7 +398,7 @@ This accounts for the least amount of water movement in the xylem.
 
 This is like a vacuum, like a stream of sucking water up.
 
-In the day, sugar made by leaves go into the guardcells and causes their water potential to lower. This causes water to flow in and the guard cell turns turgid. Then, the turgid guard cell fattens up and causes the stoma to open. This then allows for transpiration to happen, which is the loss of water from the plant through evaporation at the leaf surface through the stomata.
+In the day, sugar made by leaves go into the guardcells and causes their water potential to lower. This causes water to flow in and the guard cell turns turgid. Then, the turgid guard cell fattens up and causes the stoma to open. This then allows for transpiration to happen, which is the loss of water from the plant through evaporation at the leaf surface through the stomata. This is the main driver of water flow up the xylem.
 
 Additional Factors Affecting Rate of Transpiration:
 - Whether the leaf if folded
