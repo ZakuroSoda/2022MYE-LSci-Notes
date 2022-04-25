@@ -98,7 +98,7 @@ When Glucose and Amino Acids digested from food are lower in concentration in th
 
 Active Transport Example 2:
 
-Nutrients travel from the soil into the root (hair cells) through active transport.
+Nutrients travel from the soil into the root (hair cells) through active transport as there is a high concentration of cell sap (mineral salts and sugar) in the vacuole. This ensures a low water potential within cells to facilitate the intake of water by osmosis. However, it means that active transport must be used to take in nutrients.
 
 ---
 
@@ -382,3 +382,20 @@ Additional Notes on Xylem:
 - Consists of a variety of specialized, water-conducting cells known as tracheary elements - tracheids and vessels
 
 Quick Note: Xylem is usually on the top in a leaf
+
+3 Causes of Movement of Water:
+
+1. Root Pressure
+
+Caused by the inward osmosis of water into the root hair cells, turning these cells from flaccid to turgid, then the water moves up, then the cells turn flaccid again, and the cycle repeats.
+
+2. Capillary Action
+
+This is caused because water likes to stick to surfaces and the tracheary elements are water-conducting.
+This accounts for the least amount of water movement in the xylem.
+
+3. Transpiration Pull
+
+This is like a vacuum, like a stream of sucking water up.
+
+In the day, sugar made by leaves go into the guardcells and causes their water potential to lower. This causes water to flow in and the guard cell turns turgid. Then, the turgid guard cell fattens up and causes the stoma to open. This then allows for transpiration to happen, which is the loss of water from the plant through evaporation at the leaf surface through the stomata.
