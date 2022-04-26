@@ -398,8 +398,23 @@ This accounts for the least amount of water movement in the xylem.
 
 This is like a vacuum, like a stream of sucking water up.
 
-In the day, sugar made by leaves go into the guardcells and causes their water potential to lower. This causes water to flow in and the guard cell turns turgid. Then, the turgid guard cell fattens up and causes the stoma to open. This then allows for transpiration to happen, which is the loss of water from the plant through evaporation at the leaf surface through the stomata. This is the main driver of water flow up the xylem.
+In the day, sugar made by leaves go into the guardcells and causes their water potential to lower. This causes water to flow in and the guard cell turns turgid. Then, the turgid guard cell fattens up and causes the stoma to open. This then allows for transpiration to happen, which is the loss of water from the plant through evaporation at the leaf surface through the stomata. 
+This is the main driver of water flow up the xylem.
 
 Additional Factors Affecting Rate of Transpiration:
 - Whether the leaf if folded
 - Size of leaf - Number, Area/Size of Stoma
+
+*Differences* Between *Vascular System* in the **Stem** of *monocot and dicot*:
+
+- Presence of Vascular Cambium
+
+Monocots do not have a vascular cambium. Instead, they have a thickening meristem that produces secondary ground tissue.
+
+Dicots have a vascular cambium, a layer of cells dividing the xylem and phloem. It is tissue which provides partially undifferentiated cells for plant growth.
+
+- Distribution of Vascular Bundles
+
+In a Monocot, vascular bundles are scattered throughout the stem, while in a dicot, vascular bundles are arranged in a neat and organised ring, pointing towards the centre from the edge.
+
+<img src="assets/DifferencesStem.jpg">
