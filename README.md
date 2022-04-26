@@ -445,6 +445,8 @@ Xylem parenchyma is present in monocot roots while xylem parenchyma is absent in
 
 The pith in monocot roots is developed and prominent.	The pith in dicot roots is less developed or reduced.
 
+<img src="assets/Monocot-and-Dicot-Roots.jpg" width=500px>
+
 Reference:
 
 - https://microbenotes.com/monocot-and-dicot-roots/
