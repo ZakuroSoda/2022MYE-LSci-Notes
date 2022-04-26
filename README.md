@@ -417,4 +417,4 @@ Dicots have a vascular cambium, a layer of cells dividing the xylem and phloem. 
 
 In a Monocot, vascular bundles are scattered throughout the stem, while in a dicot, vascular bundles are arranged in a neat and organised ring, pointing towards the centre from the edge.
 
-<img src="assets/DifferencesStem.jpg">
+<img src="assets/DifferencesStem.jpg" width =500px>
