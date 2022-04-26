@@ -405,7 +405,7 @@ Additional Factors Affecting Rate of Transpiration:
 - Whether the leaf if folded
 - Size of leaf - Number, Area/Size of Stoma
 
-*Differences* Between *Vascular System* in the **Stem** of *monocot and dicot*:
+*Differences* Between *Vascular System* in the **STEM** of *monocot and dicot*:
 
 - Presence of Vascular Cambium
 
@@ -418,3 +418,33 @@ Dicots have a vascular cambium, a layer of cells dividing the xylem and phloem. 
 In a Monocot, vascular bundles are scattered throughout the stem, while in a dicot, vascular bundles are arranged in a neat and organised ring, pointing towards the centre from the edge.
 
 <img src="assets/DifferencesStem.jpg" width =500px>
+
+*Differences* Between *Vascular System* in the **ROOT** of *monocot and dicot*:
+
+- Root systems
+
+Monocot roots are fibrous, meaning they form a wide network of thin root fibres that originate from the stem and stay close to the surface of the soil. In contrast, dicots have “taproots,” meaning they form a single thick root from which secondary and tertiary roots develop and grow vertically downwards through the soil. It grows deep into the soil and has smaller, lateral branches. 
+
+- Cortex
+
+The cortex in a monocot root is wider than in a dicot root with a narrow cortex.
+
+The cortex in monocot roots is composed of only parenchymatous cells while the cortex of dicot roots is composed of both parenchymatous and sclerenchymatous cells.
+
+- Endodermis
+
+The endodermis of monocot roots is thicker.	The endodermis of dicot roots is less thick.
+
+- Cambium
+
+Both cork cambium and vascular cambium are absent in monocot roots while both cork cambium and vascular cambium are found in dicot roots.
+
+- Parenchyma (Pith)
+
+Xylem parenchyma is present in monocot roots while xylem parenchyma is absent in dicot roots.
+
+The pith in monocot roots is developed and prominent.	The pith in dicot roots is less developed or reduced.
+
+Reference:
+
+- https://microbenotes.com/monocot-and-dicot-roots/
