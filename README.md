@@ -328,6 +328,21 @@ Extra: Why soil was originally always used:
 - Water inherently present as rainwater and groundwater
 - Aeration of roots inherently present due to space between soil particles
 
+--- 
+
+Extra but Must-Know: Substrates/Growth Media
+
+Purpose: Provide Anchorage of Plant Roots
+Properties: Well-aerated, porous to absorb the nutrient solution, so that it can hold the solution for a while for the plant to absorb.
+
+Example:
+
+- perlite
+- vermiculite
+- horticultural rockwool
+- sand
+- fired clay pebbles
+
 ## 6. Plant Transport
 
 The "*atas*" version of this is also called the *vascular system*.
