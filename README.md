@@ -332,7 +332,7 @@ Extra: Why soil was originally always used:
 
 Extra but Must-Know: Substrates/Growth Media
 
-Purpose: Provide Anchorage of Plant Roots
+Purpose: Provide Anchorage of Plant Roots  
 Properties: Well-aerated, porous to absorb the nutrient solution, so that it can hold the solution for a while for the plant to absorb.
 
 Example:
